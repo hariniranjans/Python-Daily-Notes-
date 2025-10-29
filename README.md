@@ -1,2 +1,2 @@
-# Python-Daily-Notes-
+# Python-Daily-Notes
 harinjn1441@gmail.com
